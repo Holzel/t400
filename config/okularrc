@@ -1,0 +1,18 @@
+[Desktop Entry]
+FullScreen=false
+
+[MainWindow]
+Height 800=776
+State=AAAA/wAAAAD9AAAAAAAABQAAAALRAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1280=1280
+
+[Recent Files]
+File1[$e]=$HOME/Documents/Koreanisch/Lee_Chul_Young,Korean_Grammar_Textbook,indexed.pdf
+File2[$e]=$HOME/Documents/Haltermanpythonbook.pdf
+File3[$e]=$HOME/Documents/Koreanisch/korean-grammar-in-use-beginner.pdf
+File4[$e]=$HOME/Documents/Prog/AppNee.com.Head.First.Python.1st.Edition.pdf
+Name1[$e]=Lee_Chul_Young,Korean_Grammar_Textbook,indexed.pdf
+Name2[$e]=Haltermanpythonbook.pdf
+Name3[$e]=korean-grammar-in-use-beginner.pdf
+Name4[$e]=AppNee.com.Head.First.Python.1st.Edition.pdf

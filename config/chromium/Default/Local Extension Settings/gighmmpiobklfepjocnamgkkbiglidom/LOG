@@ -1,0 +1,19 @@
+2017/10/22-21:57:10.680 3203 Reusing MANIFEST /home/holzel/.config/chromium/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2017/10/22-21:57:10.680 3203 Recovering log #594
+2017/10/22-21:57:10.732 3203 Level-0 table #596: started
+2017/10/22-21:57:10.936 3203 Level-0 table #596: 2064903 bytes OK
+2017/10/22-21:57:11.009 3203 Delete type=0 #594
+2017/10/22-22:00:52.589 3494 Level-0 table #599: started
+2017/10/22-22:00:52.722 3494 Level-0 table #599: 2064885 bytes OK
+2017/10/22-22:00:52.806 3494 Delete type=0 #597
+2017/10/22-22:00:52.807 3494 Compacting 4@0 + 2@1 files
+2017/10/22-22:00:52.999 3494 Generated table #600@0: 3 keys, 3091870 bytes
+2017/10/22-22:00:53.050 3494 Generated table #601@0: 5 keys, 425 bytes
+2017/10/22-22:00:53.050 3494 Compacted 4@0 + 2@1 files => 3092295 bytes
+2017/10/22-22:00:53.092 3494 compacted to: files[ 0 3 1 0 0 0 0 ]
+2017/10/22-22:00:53.092 3494 Delete type=2 #593
+2017/10/22-22:00:53.092 3494 Delete type=2 #599
+2017/10/22-22:00:53.093 3494 Delete type=2 #590
+2017/10/22-22:00:53.094 3494 Delete type=2 #596
+2017/10/22-22:00:53.094 3494 Delete type=2 #588
+2017/10/22-22:00:53.095 3494 Delete type=2 #577

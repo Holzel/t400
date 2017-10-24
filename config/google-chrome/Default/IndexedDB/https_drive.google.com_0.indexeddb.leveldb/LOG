@@ -1,0 +1,21 @@
+2017/10/09-13:30:38.131 29754 Reusing MANIFEST /home/holzel/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2017/10/09-13:30:38.131 29754 Recovering log #91
+2017/10/09-13:30:38.167 29754 Reusing old log /home/holzel/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000091.log 
+2017/10/09-13:30:43.884 30179 Level-0 table #95: started
+2017/10/09-13:30:44.078 30179 Level-0 table #95: 1243608 bytes OK
+2017/10/09-13:30:44.164 30179 Delete type=0 #91
+2017/10/09-13:30:45.211 30179 Level-0 table #97: started
+2017/10/09-13:30:45.395 30179 Level-0 table #97: 1261544 bytes OK
+2017/10/09-13:30:45.506 30179 Delete type=0 #94
+2017/10/09-13:30:46.664 30179 Level-0 table #99: started
+2017/10/09-13:30:46.801 30179 Level-0 table #99: 1261544 bytes OK
+2017/10/09-13:30:46.846 30179 Delete type=0 #96
+2017/10/09-13:30:46.854 30179 Compacting 4@0 + 1@1 files
+2017/10/09-13:30:47.119 30179 Generated table #100@0: 13 keys, 1261483 bytes
+2017/10/09-13:30:47.119 30179 Compacted 4@0 + 1@1 files => 1261483 bytes
+2017/10/09-13:30:47.269 30179 compacted to: files[ 0 1 1 0 0 0 0 ]
+2017/10/09-13:30:47.269 30179 Delete type=2 #97
+2017/10/09-13:30:47.269 30179 Delete type=2 #99
+2017/10/09-13:30:47.270 30179 Delete type=2 #95
+2017/10/09-13:30:47.270 30179 Delete type=2 #90
+2017/10/09-13:30:47.288 30179 Delete type=2 #92

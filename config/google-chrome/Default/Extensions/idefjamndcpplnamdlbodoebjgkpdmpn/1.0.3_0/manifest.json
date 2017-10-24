@@ -1,0 +1,18 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://www.zalmos.com/?utm_source=chrome&utm_medium=home&utm_campaign=badge"
+      },
+      "urls": [ "http://www.zalmos.com/" ]
+   },
+   "description": "Use our free web proxy to surf the internet unrestricted, uncensored, fast, secure, and protect your online identity.",
+   "icons": {
+      "128": "zalmos-icon-128.png",
+      "48": "zalmos-icon-48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDCjdta/QDMvZ1tEJBQ2QtmjsonRHW9s1byAkiUNKyGvIOL4cC3s8qvZRPDSc3jvCwB7wpN+uva819jDzDtayelERoIU10Df0foMat4OsLKHb6Mm8+GIgwa25r3F5VPaauxZtJCF+ZQXqvOvRkHnWa8B5JahnH4ftaRBvCLsFKi+QIDAQAB",
+   "manifest_version": 2,
+   "name": "Zalmos SSL Web Proxy for Free",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.3"
+}

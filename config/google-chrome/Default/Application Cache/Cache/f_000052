@@ -1,0 +1,218 @@
+<?xml version='1.0' encoding='UTF-8'?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.1" x="0" y="0" width="24px" height="760px" viewBox="0 0 24 760" preserveAspectRatio="none"><g transform="translate(0,36)"><g fill-rule="evenodd" fill="none">
+  <path d="m0 0h20v20h-20v-20z"/>
+  <path fill="#fff" d="m16.667 9.1667h-10.142l4.658-4.6584-1.183-1.175-6.6667 6.6667 6.6667 6.667 1.175-1.175-4.65-4.659h10.142v-1.6663z"/>
+ </g>
+</g><g transform="translate(0,206)"><g fill="none" fill-rule="evenodd">
+  <g transform="translate(10 10) rotate(180) translate(-10 -10)">
+   <polygon points="0 0 20 0 20 20 0 20"/>
+   <polygon points="16.667 9.1667 6.525 9.1667 11.183 4.5083 10 3.3333 3.3333 10 10 16.667 11.175 15.492 6.525 10.833 16.667 10.833" fill="#fff"/>
+  </g>
+ </g>
+</g><g transform="translate(0,422)"><g id="Page-1" fill-rule="evenodd" fill="none">
+  <g id="ic_cite_black_24dp">
+   <g id="ic_format_quote_black_24dp">
+    <g id="Group">
+     <path id="Shape" fill="#000" d="m6 17h3l2-4v-6h-6v6h3l-2 4zm8 0h3l2-4v-6h-6v6h3l-2 4z"/>
+     <polygon id="Shape" points="0 0 24 0 24 24 0 24"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</g><g transform="translate(0,604)"><g id="18x18" fill-rule="evenodd" fill="none">
+  <g id="ic_cite_black_18dp">
+   <g id="ic_format_quote_black_24dp">
+    <g id="Group">
+     <polygon id="Shape" points="0 0 18 0 18 18 0 18"/>
+     <path id="Shape" fill="#000" d="m3.857 13.5h2.571l1.572-3.5v-5h-5v5h2.571l-1.714 3.5zm7 0h2.571l1.572-3.5v-5h-5v5h2.571l-1.714 3.5z"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</g><g transform="translate(0,368)"><g fill="none" fill-rule="evenodd">
+  <polygon points="0 0 18 0 18 18 0 18"/>
+  <path d="m16 1h-14c-0.55 0-1 0.45-1 1v14c0 0.55 0.45 1 1 1h14c0.55 0 1-0.45 1-1v-14c0-0.55-0.45-1-1-1zm-6 12h-5v-2h5v2zm3-3h-8v-2h8v2zm0-3h-8v-2h8v2z" fill="#4285F4"/>
+ </g>
+</g><g transform="translate(0,404)"><g fill="none" fill-rule="evenodd">
+  <polygon points="0 0 18 0 18 18 0 18"/>
+  <path d="m16 1h-14c-0.5 0-1 0.5-1 1v14c0 0.5 0.5 1 1 1h14c0.5 0 1-0.5 1-1v-14c0-0.5-0.5-1-1-1zm-2 13h-5v-4.8c-0.5 0.5-1.2 0.8-2 0.8-1.7 0-3-1.3-3-3s1.3-3 3-3 3 1.3 3 3c0 0.8-0.3 1.5-0.8 2h4.8v5z" fill="#DB4437"/>
+ </g>
+</g><g transform="translate(0,470)"><g fill="none" fill-rule="evenodd">
+  <polygon points="0 0 18 0 18 18 0 18"/>
+  <path d="m1 4.0025c0-0.55365 0.44463-1.0025 1.0009-1.0025h13.998c0.55277 0 1.0009 0.45576 1.0009 1.0025v9.9951c0 0.55365-0.44463 1.0025-1.0009 1.0025h-13.998c-0.55277 0-1.0009-0.45576-1.0009-1.0025v-9.9951zm8 7.9975l-7-5v-2l7 5 7-5v2l-7 5z" fill="#DD4330"/>
+ </g>
+</g><g transform="translate(0,742)"><g fill="none" fill-rule="evenodd">
+  <polygon points="0 0 18 0 18 18 0 18"/>
+  <path d="m16 1h-14c-0.5 0-1 0.5-1 1v14c0 0.5 0.5 1 1 1h14c0.5 0 1-0.5 1-1v-14c0-0.5-0.5-1-1-1zm-2.6 13h-2l-2.2-3.8-2.2 3.8h-2l3.2-5-3.2-5h2l2.2 3.8 2.2-3.8h2l-3.2 5 3.2 5z" fill="#16A764"/>
+ </g>
+</g><g transform="translate(0,164)"><g id="Page-1" fill-rule="evenodd" fill="none">
+  <g id="ic_ExpandDown_black_24dp">
+   <g id="Group">
+    <polygon id="Shape" points="16.59 8.59 12 13.17 7.41 8.59 6 10 12 16 18 10" fill="#000"/>
+    <polygon id="Shape" points="0 0 24 0 24 24 0 24"/>
+   </g>
+  </g>
+ </g>
+</g><g transform="translate(0,446)"><g id="Page-1" fill-rule="evenodd" fill="none">
+  <g id="ic_ExpandUp_black_24dp">
+   <g id="Group" transform="translate(12 12) rotate(180) translate(-12 -12)">
+    <polygon id="Shape" points="16.59 8.59 12 13.17 7.41 8.59 6 10 12 16 18 10" fill="#000"/>
+    <polygon id="Shape" points="0 0 24 0 24 24 0 24"/>
+   </g>
+  </g>
+ </g>
+</g><g transform="translate(0,506)"><path d="M4 1c-.55 0-.99.45-.99 1L3 16c0 .55.44 1 1 1h10c.55 0 1-.45 1-1V6l-5-5H4zm6 5V2l4 4h-4z" fill="#4285F4"/>
+ <path d="M0 0h18v18H0z" fill="none"/>
+</g><g transform="translate(0,226)"><g fill="none" fill-rule="evenodd">
+  <polygon points="0 0 18 0 18 18 0 18"/>
+  <path d="m7 15h4v-2h-4v2zm-6-12v2h16v-2h-16zm3 7h10v-2h-10v2z" fill="#000"/>
+ </g>
+</g><g transform="translate(0,98)"><path d="M0 0h18v18H0z" fill="none"/>
+  <path d="M10 5L8 3H3c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V6c0-.55-.45-1-1-1h-5z" fill="#757575"/>
+</g><g transform="translate(0,18)"><g fill="none" fill-rule="evenodd">
+  <polygon points="0 0 18 0 18 18 0 18"/>
+  <path d="m16 1h-14c-0.55 0-1 0.45-1 1v14c0 0.55 0.45 1 1 1h14c0.55 0 1-0.45 1-1v-14c0-0.55-0.45-1-1-1zm-12 4h2v2h-2v-2zm0 3h2v2h-2v-2zm0 3h2v2h-2v-2zm10 2h-7v-2h7v2zm0-3h-7v-2h7v2zm0-3h-7v-2h7v2z" fill="#673AB7"/>
+ </g>
+</g><g transform="translate(0,56)"><g fill-rule="evenodd" fill="none">
+  <rect y="0" x="0" height="24" width="24"/>
+  <polygon points="12 4 10.6 5.4 16.2 11 4 11 4 13 16.2 13 10.6 18.6 12 20 20 12" fill="#000"/>
+ </g>
+</g><g transform="translate(0,326)"><g fill="none" fill-rule="evenodd">
+  <g transform="translate(12 12) rotate(180) translate(-12 -12)">
+   <rect width="24" height="24"/>
+   <polygon points="12 4 10.6 5.4 16.2 11 4 11 4 13 16.2 13 10.6 18.6 12 20 20 12" fill="#000"/>
+  </g>
+ </g>
+</g><g transform="translate(0,718)"><defs>
+  <circle id="b" cy="11" cx="11" r="11"/>
+  <radialGradient id="a" cy="14.557%" cx="14.523%" r="100.48%">
+   <stop stop-color="#fff" stop-opacity=".1" offset="0"/>
+   <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+  </radialGradient>
+ </defs>
+ <g fill-rule="evenodd" fill="none">
+  <polygon points="0 0 24 0 24 24 0 24"/>
+  <g transform="translate(1 1)">
+   <mask id="c" fill="white">
+    <use xlink:href="#b"/>
+   </mask>
+   <g mask="url(#c)">
+    <circle cy="11" cx="11" r="11" fill="#F5F5F5"/>
+    <circle opacity=".5" cy="11" cx="11" r="11" fill="#eee"/>
+    <path fill-opacity=".02" fill="#212121" d="m11 0.125c6.055 0 10.965 4.89 11 10.94v-0.06c0-6.075-4.925-11-11-11s-11 4.92-11 10.995v0.06c0.035-6.045 4.945-10.935 11-10.935z"/>
+    <path fill-opacity=".05" fill="#212121" d="m22 10.94c-0.035 6.045-4.945 10.94-11 10.94s-10.965-4.895-11-10.94v0.06c0 6.075 4.925 11 11 11s11-4.925 11-11v-0.06z"/>
+    <path fill="#4285F4" d="m18.2 11.17c0-0.54-0.05-1.055-0.14-1.55h-7.06v2.875h4.04c-0.165 0.955-0.695 1.765-1.505 2.305v1.88h2.425c1.42-1.3 2.24-3.225 2.24-5.51z"/>
+    <path fill="#34A853" d="m11 18.5c2.025 0 3.72-0.67 4.965-1.815l-2.425-1.88c-0.67 0.45-1.53 0.715-2.54 0.715-1.95 0-3.605-1.32-4.195-3.095h-2.5v1.94c1.235 2.45 3.765 4.135 6.695 4.135z"/>
+    <path fill="#FBBC05" d="m4.305 14.365l2.5-1.94c-0.15-0.45-0.235-0.93-0.235-1.425s0.085-0.975 0.235-1.425v-1.94h-2.5c-0.51 1.015-0.805 2.155-0.805 3.365s0.295 2.35 0.805 3.365z"/>
+    <path fill="#EA4335" d="m11 6.485c1.1 0 2.09 0.38 2.87 1.12l2.15-2.15c-1.3-1.21-2.995-1.955-5.02-1.955-2.93 0-5.46 1.685-6.695 4.135l2.5 1.94c0.59-1.775 2.245-3.09 4.195-3.09z"/>
+    <polygon points="3.5 11 3.5 3.5 18.5 3.5 18.5 18.5 3.5 18.5"/>
+   </g>
+  </g>
+  <circle cy="12" cx="12" r="11" fill="url(#a)"/>
+ </g>
+</g><g transform="translate(0,188)"><path d="M0 0h18v18H0z" fill="none"/>
+  <path d="M6 8c1.11 0 2-.9 2-2s-.89-2-2-2c-1.1 0-2 .9-2 2s.9 2 2 2zm6 0c1.11 0 2-.9 2-2s-.89-2-2-2c-1.11 0-2 .9-2 2s.9 2 2 2zM6 9.2c-1.67 0-5 .83-5 2.5V13h10v-1.3c0-1.67-3.33-2.5-5-2.5zm6 0c-.25 0-.54.02-.84.06.79.6 1.34 1.4 1.34 2.44V13H17v-1.3c0-1.67-3.33-2.5-5-2.5z" fill="#4285F4"/>
+</g><g transform="translate(0,80)"><g fill="none" fill-rule="evenodd">
+  <polygon points="0 0 18 0 18 18 0 18"/>
+  <path d="m16 1h-14c-0.55 0-1 0.45-1 1v14c0 0.55 0.45 1 1 1h14c0.55 0 1-0.45 1-1v-14c0-0.55-0.45-1-1-1zm-12.5 12l2.75-3.54 1.96 2.36 2.75-3.54 3.54 4.72h-11z" fill="#9D1BB2"/>
+ </g>
+</g><g transform="translate(0,140)"><g id="Page-1" fill-rule="evenodd" fill="none">
+  <g id="ic_insert_black_24dp">
+   <g id="ic_add_black_24dp">
+    <polygon id="Shape" points="0 0 24 0 24 24 0 24"/>
+    <polygon id="Shape" points="19 13 13 13 13 19 11 19 11 13 5 13 5 11 11 11 11 5 13 5 13 11 19 11" fill="#000"/>
+   </g>
+  </g>
+ </g>
+</g><g transform="translate(0,622)"><g id="18x18" fill-rule="evenodd" fill="none">
+  <g id="ic_insert_black_18dp">
+   <g id="plus_18px">
+    <path id="Shape" d="m0 0h18v18h-18v-18zh18v18h-18v-18z"/>
+    <path id="Combined-Shape" fill="#000" d="m10 8v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4z"/>
+   </g>
+  </g>
+ </g>
+</g><g transform="translate(0,700)"><g fill="none" transform="translate(1 1)">
+    <path fill="#F6B500" d="M16,11 L16,1.77777778 C16,0.8 15.2,0 14.2222222,0 L1.77777778,0 C0.8,0 0,0.8 0,1.77777778 L0,14.2222222 C0,15.2 0.8,16 1.77777778,16 L11,16 L16,11 Z"/>
+    <path fill="#FFF" d="M2.88296283,10 C2.88296283,10.2851852 3.11629616,10.5185185 3.40148134,10.5185185 L5.47555542,10.5185185 C5.7607406,10.5185185 5.99407394,10.2851852 5.99407394,10 L5.99407394,9.48148151 L2.88296283,9.48148151 L2.88296283,10 Z M4.43851838,0.148148151 C2.4370369,0.148148151 0.808888756,1.77629629 0.808888756,3.77777778 C0.808888756,5.01185185 1.42592579,6.09555556 2.36444431,6.75407407 L2.36444431,7.92592593 C2.36444431,8.21111111 2.59777764,8.44444444 2.88296283,8.44444444 L5.99407394,8.44444444 C6.27925912,8.44444444 6.51259245,8.21111111 6.51259245,7.92592593 L6.51259245,6.75407407 C7.45111093,6.09555556 8.068148,5.01185185 8.068148,3.77777778 C8.068148,1.77629629 6.43999987,0.148148151 4.43851838,0.148148151 Z M5.91629616,5.90370371 L5.47555542,6.21481482 L5.47555542,7.4074074 L3.40148134,7.4074074 L3.40148134,6.21481482 L2.9607406,5.90370371 C2.2607406,5.41629629 1.84592579,4.62296296 1.84592579,3.77777778 C1.84592579,2.34666667 3.00740727,1.18518518 4.43851838,1.18518518 C5.86962949,1.18518518 7.03111098,2.34666667 7.03111098,3.77777778 C7.03111098,4.62296296 6.61629616,5.41629629 5.91629616,5.90370371 Z" transform="translate(3.556 2.667)"/>
+  </g>
+</g><g transform="translate(0,268)"><g fill="none" fill-rule="evenodd">
+    <polygon points="0 0 16 0 16 16 0 16"/>
+    <path fill="#000" fill-rule="nonzero" d="M12.0029167,5.66666667 L11.3360417,5.66666667 L11.3360417,4.33333333 C11.3360417,2.49333333 9.84224172,1 8.0016667,1 C6.16109169,1 4.66729168,2.49333333 4.66729168,4.33333333 L4.66729168,5.66666667 L4.00041668,5.66666667 C3.26685417,5.66666667 2.66666667,6.26666667 2.66666667,7 L2.66666667,13.6666667 C2.66666667,14.4 3.26685417,15 4.00041668,15 L12.0029167,15 C12.7364792,15 13.3366667,14.4 13.3366667,13.6666667 L13.3366667,7 C13.3366667,6.26666667 12.7364792,5.66666667 12.0029167,5.66666667 Z M8.0016667,11.6666667 C7.2681042,11.6666667 6.6679167,11.0666667 6.6679167,10.3333333 C6.6679167,9.6 7.2681042,9 8.0016667,9 C8.73522921,9 9.33541671,9.6 9.33541671,10.3333333 C9.33541671,11.0666667 8.73522921,11.6666667 8.0016667,11.6666667 Z M10.0689792,5.66666667 L5.93435419,5.66666667 L5.93435419,4.33333333 C5.93435419,3.19333333 6.86131045,2.26666667 8.0016667,2.26666667 C9.14202296,2.26666667 10.0689792,3.19333333 10.0689792,4.33333333 L10.0689792,5.66666667 Z"/>
+  </g>
+</g><g transform="translate(0,116)"><g id="Page-1" fill-rule="evenodd" fill="none">
+  <g id="ic_more_black_24dp">
+   <g id="ic_more_vert_black_24dp">
+    <polygon id="Shape" points="0 0 24 0 24 24 0 24"/>
+    <path id="Shape" fill="#000" d="m12 8c1.1 0 2-0.9 2-2s-0.9-2-2-2-2 0.9-2 2 0.9 2 2 2zm0 2c-1.1 0-2 0.9-2 2s0.9 2 2 2 2-0.9 2-2-0.9-2-2-2zm0 6c-1.1 0-2 0.9-2 2s0.9 2 2 2 2-0.9 2-2-0.9-2-2-2z"/>
+   </g>
+  </g>
+ </g>
+</g><g transform="translate(0,682)"><g fill="none" fill-rule="evenodd">
+  <polygon points="0 0 18 0 18 18 0 18"/>
+  <path d="m16 1c0.55 0 1 0.45 1 1v14c0 0.55-0.45 1-1 1h-14c-0.55 0-1-0.45-1-1v-14c0-0.55 0.45-1 1-1h14zm-1 6v-1h-3v5h1v-2h1v-1h-1v-1h2zm-5.5-1h-1.5v5h1.5c0.8285 0 1.5-0.672 1.5-1.5v-2c0-0.828-0.6715-1.5-1.5-1.5zm-0.5 4v-3h0.5c0.2765 0 0.5 0.2235 0.5 0.5v2c0 0.2765-0.2235 0.5-0.5 0.5h-0.5zm-4-1h1c0.5525 0 1-0.4475 1-1v-1c0-0.5525-0.4475-1-1-1h-2v5h1v-2zm0-1v-1h1v1h-1z" fill="#DB4437"/>
+ </g>
+</g><g transform="translate(0,544)"><g fill="none" fill-rule="evenodd">
+  <polygon points="0 0 18 0 18 18 0 18"/>
+  <path d="m9.5 6c0.82843 0 1.5 0.67157 1.5 1.5s-0.67157 1.5-1.5 1.5h-2.5v-3h2.5zm0 5c1.933 0 3.5-1.567 3.5-3.5s-1.567-3.5-3.5-3.5h-3.5-1v10h2v-3h2.5zm-7.5-10h14c0.5 0 1 0.5 1 1v14c0 0.5-0.5 1-1 1h-14c-0.5 0-1-0.5-1-1v-14c0-0.5 0.5-1 1-1z" fill="#FF7537"/>
+ </g>
+</g><g transform="translate(0,658)"><g fill-rule="evenodd" fill="none">
+  <polygon points="0 0 24 0 24 24 0 24"/>
+  <path fill="#fff" d="m15.5 14h-0.79l-0.28-0.27c0.98-1.14 1.57-2.62 1.57-4.23 0-3.59-2.91-6.5-6.5-6.5s-6.5 2.91-6.5 6.5 2.91 6.5 6.5 6.5c1.61 0 3.09-0.59 4.23-1.57l0.27 0.28v0.79l5 4.99 1.49-1.49-4.99-5zm-6 0c-2.49 0-4.5-2.01-4.5-4.5s2.01-4.5 4.5-4.5 4.5 2.01 4.5 4.5-2.01 4.5-4.5 4.5z"/>
+  <polygon points="12 10 10 10 10 12 9 12 9 10 7 10 7 9 9 9 9 7 10 7 10 9 12 9" fill="#fff"/>
+ </g>
+</g><g transform="translate(0,524)"><g id="Answers" fill-rule="evenodd" fill="none">
+  <g id="sidepanel_answer" transform="translate(-272 -54)">
+   <g id="lines" transform="translate(0 4)">
+    <g id="ask-" transform="translate(16 39)">
+     <g id="ic_help_outline_black_24dp" transform="translate(254 9)">
+      <polygon id="Shape" points="0 0 24 0 24 24 0 24"/>
+      <path id="Shape" fill="#0F9D58" d="m11 18h2v-2h-2v2zm1-16c-5.52 0-10 4.48-10 10s4.48 10 10 10 10-4.48 10-10-4.48-10-10-10zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm0-14c-2.21 0-4 1.79-4 4h2c0-1.1 0.9-2 2-2s2 0.9 2 2c0 2-3 1.75-3 5h2c0-2.25 3-2.5 3-5 0-2.21-1.79-4-4-4z"/>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</g><g transform="translate(0,302)"><g fill-rule="evenodd" fill="none">
+  <path d="m0 0h24v24h-24v-24z"/>
+  <path d="m15.5 14h-0.79l-0.28-0.27c0.98-1.14 1.57-2.62 1.57-4.23 0-3.59-2.91-6.5-6.5-6.5s-6.5 2.91-6.5 6.5 2.91 6.5 6.5 6.5c1.61 0 3.09-0.59 4.23-1.57l0.27 0.28v0.79l5 4.99 1.49-1.49-4.99-5zm-6 0c-2.49 0-4.5-2.01-4.5-4.5s2.01-4.5 4.5-4.5 4.5 2.01 4.5 4.5-2.01 4.5-4.5 4.5z" fill="#000"/>
+ </g>
+</g><g transform="translate(0,580)"><g fill-rule="evenodd" fill="none">
+  <rect y="0" x="0" height="24" width="24"/>
+  <circle cy="12" cx="12" r="10" fill="#000"/>
+  <g fill="#fff" transform="translate(7 7)">
+   <polygon points="9.6667 1.2667 8.7333 0.33333 5 4.0667 1.2667 0.33333 0.33333 1.2667 4.0667 5 0.33333 8.7333 1.2667 9.6667 5 5.9333 8.7333 9.6667 9.6667 8.7333 5.9333 5"/>
+  </g>
+ </g>
+</g><g transform="translate(0,244)"><g fill-rule="evenodd" fill="none">
+  <path fill="#000" d="m11.99 2c-5.52 0-9.99 4.48-9.99 10s4.47 10 9.99 10c5.53 0 10.01-4.48 10.01-10s-4.48-10-10.01-10zm0.01 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8zm0.5-13h-1.5v6l5.25 3.15 0.75-1.23-4.5-2.67v-5.25z"/>
+  <polygon points="0 0 24 0 24 24 0 24"/>
+ </g>
+</g><g transform="translate(0,640)"><g fill="none" fill-rule="evenodd">
+  <polygon points="0 0 18 0 18 18 0 18"/>
+  <path d="m16 1h-14c-0.55 0-1 0.45-1 1v14c0 0.55 0.45 1 1 1h14c0.55 0 1-0.45 1-1v-14c0-0.55-0.45-1-1-1zm0 7h-8v7h-2v-7h-3v-2h3v-3h2v3h8v2z" fill="#009E55"/>
+ </g>
+</g><g transform="translate(0,562)"><g fill="none" fill-rule="evenodd">
+  <polygon points="0 0 18 0 18 18 0 18"/>
+  <path d="m16 1c0.5 0 1 0.5 1 1v14c0 0.5-0.5 1-1 1h-14c-0.5 0-1-0.5-1-1v-14c0-0.5 0.5-1 1-1h14zm-13 3v3h12v-3h-12zm0 4v6h7v-6h-7zm8 0v6h4v-6h-4z" fill="#3F51B5"/>
+ </g>
+</g><g transform="translate(0,386)"><g fill="none" fill-rule="evenodd">
+  <polygon points="0 0 18 0 18 18 0 18"/>
+  <path d="m16 1h-14c-0.55 0-1 0.45-1 1v14c0 0.55 0.45 1 1 1h14c0.55 0 1-0.45 1-1v-14c0-0.55-0.45-1-1-1zm-1 12h-12v-8h12v8z" fill="#F6B500"/>
+ </g>
+</g><g transform="translate(0,284)"><g fill="none" fill-rule="evenodd">
+    <polygon points="0 0 18 0 18 18 0 18"/>
+    <path fill="#000" fill-rule="nonzero" d="M11.25,2.25 L4.5,2.25 C3.8775,2.25 3.345,2.625 3.12,3.165 L0.855,8.4525 C0.7875,8.625 0.75,8.805 0.75,9 L0.75,10.4325 L0.7575,10.44 L0.75,10.5 C0.75,11.325 1.425,12 2.25,12 L6.9825,12 L6.27,15.4275 L6.2475,15.6675 C6.2475,15.975 6.375,16.26 6.5775,16.4625 L7.3725,17.25 L12.315,12.3075 C12.585,12.0375 12.75,11.6625 12.75,11.25 L12.75,3.75 C12.75,2.925 12.075,2.25 11.25,2.25 Z M14.25,2.25 L14.25,11.25 L17.25,11.25 L17.25,2.25 L14.25,2.25 Z"/>
+  </g>
+</g><g transform="translate(0,488)"><g fill="none" fill-rule="evenodd">
+    <polygon points="0 0 18 0 18 18 0 18"/>
+    <path fill="#000" fill-rule="nonzero" d="M0.75,15.75 L3.75,15.75 L3.75,6.75 L0.75,6.75 L0.75,15.75 Z M17.25,7.5 C17.25,6.675 16.575,6 15.75,6 L11.0175,6 L11.73,2.5725 L11.7525,2.3325 C11.7525,2.025 11.625,1.74 11.4225,1.5375 L10.6275,0.75 L5.6925,5.6925 C5.415,5.9625 5.25,6.3375 5.25,6.75 L5.25,14.25 C5.25,15.075 5.925,15.75 6.75,15.75 L13.5,15.75 C14.1225,15.75 14.655,15.375 14.88,14.835 L17.145,9.5475 C17.2125,9.375 17.25,9.195 17.25,9 L17.25,7.5675 L17.2425,7.56 L17.25,7.5 Z"/>
+  </g>
+</g><g transform="translate(0,350)"><g fill="none" fill-rule="evenodd">
+  <polygon points="0 0 18 0 18 18 0 18"/>
+  <path d="m15.5 6h-2.25l-1.5-3h-1.5l1.5 3h-2.25l-1.5-3h-1.5l1.5 3h-2.25l-1.5-3h-0.75c-0.82875 0-1.4925 0.67125-1.4925 1.5l-0.0075 9c0 0.82875 0.67125 1.5 1.5 1.5h12c0.82875 0 1.5-0.67125 1.5-1.5v-10.5h-3l1.5 3z" fill="#DD4330"/>
+ </g>
+</g><g transform="translate(0,0)"><g fill="none" fill-rule="evenodd">
+  <polygon points="0 0 18 0 18 18 0 18"/>
+  <path d="m16 1c0.5 0 1 0.5 1 1v14c0 0.5-0.5 1-1 1h-14c-0.5 0-1-0.5-1-1v-14c0-0.5 0.5-1 1-1h14zm-3.6 13l2.4-10h-1.7l-1.53 7.505-1.97-7.505h-1.4l-1.96 7.505-1.54-7.505h-1.7l2.4 10h1.5l2-7.5 2 7.5h1.5z" fill="#4986E7"/>
+ </g>
+</g></svg>

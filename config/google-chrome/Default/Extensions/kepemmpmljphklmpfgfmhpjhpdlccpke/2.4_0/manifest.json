@@ -1,0 +1,21 @@
+{
+   "background": {
+      "scripts": [ "fancy-settings/source/lib/store.js", "background.js" ]
+   },
+   "content_scripts": [ {
+      "js": [ "leodictwidget.js" ],
+      "matches": [ "*://*/*" ]
+   } ],
+   "description": "Select a word on a website and immediately look up its translation. No tabs, no windows. Guranteed!",
+   "icons": {
+      "128": "leo128.png",
+      "48": "leo48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDGXF74CPru8FCSkSGJNvx5F/RW5u7q3zYkfBJkLHUbJvbgmgKCkzlaqM+QzqMykVi+PQhx6EVdCK3tImYu3FFROQsEFEEnV9FKVI8Kq2OfBw1E5JnyXj7wkTKaxdCeL43TNKTZEVH19eicy02E6Y2dJjRt2fIqhXNLCMsYbEzIlQIDAQAB",
+   "manifest_version": 2,
+   "name": "Leo Dictionary Widget",
+   "options_page": "fancy-settings/source/index.html",
+   "permissions": [ "contextMenus" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.4"
+}

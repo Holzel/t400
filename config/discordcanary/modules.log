@@ -1,0 +1,921 @@
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Install path: /home/holzel/.config/discordcanary/0.0.24/modules
+[Modules] Bootstrapping...
+[Modules] Installing discord_rpc@1 from /opt/discord-canary/resources/bootstrap/discord_rpc.zip
+[Modules] Installing discord_toaster@1 from /opt/discord-canary/resources/bootstrap/discord_toaster.zip
+[Modules] Installing discord_utils@1 from /opt/discord-canary/resources/bootstrap/discord_utils.zip
+[Modules] Installing discord_voice@1 from /opt/discord-canary/resources/bootstrap/discord_voice.zip
+[Modules] Finished module installations. [success: 4] [failure: 0]
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] Module update available: discord_rpc@43 [installed: 1]
+[Modules] Module update available: discord_toaster@43 [installed: 1]
+[Modules] Module update available: discord_utils@43 [installed: 1]
+[Modules] Module update available: discord_voice@44 [installed: 1]
+[Modules] Fetching discord_rpc@43 from https://discordapp.com/api/modules/canary/discord_rpc/43
+[Modules] Streaming discord_rpc@43 [516275 bytes] to /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_rpc-43.zip
+[Modules] Fetching discord_toaster@43 from https://discordapp.com/api/modules/canary/discord_toaster/43
+[Modules] Streaming discord_toaster@43 [1954827 bytes] to /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_toaster-43.zip
+[Modules] Fetching discord_utils@43 from https://discordapp.com/api/modules/canary/discord_utils/43
+[Modules] Streaming discord_utils@43 [1082450 bytes] to /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_utils-43.zip
+[Modules] Fetching discord_voice@44 from https://discordapp.com/api/modules/canary/discord_voice/44
+[Modules] Streaming discord_voice@44 [7820136 bytes] to /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_voice-44.zip
+[Modules] Finished module downloads. [success: 4] [failure: 0]
+[Modules] Relaunching to install module updates...
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Install path: /home/holzel/.config/discordcanary/0.0.24/modules
+[Modules] Installing updates...
+[Modules] Installing discord_rpc@43 from /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_rpc-43.zip
+[Modules] Installing discord_toaster@43 from /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_toaster-43.zip
+[Modules] Installing discord_utils@43 from /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_utils-43.zip
+[Modules] Installing discord_voice@44 from /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_voice-44.zip
+[Modules] Finished module installations. [success: 4] [failure: 0]
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Install path: /home/holzel/.config/discordcanary/0.0.24/modules
+[Modules] No updates to install
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Install path: /home/holzel/.config/discordcanary/0.0.24/modules
+[Modules] No updates to install
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Install path: /home/holzel/.config/discordcanary/0.0.24/modules
+[Modules] No updates to install
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] Module update available: discord_rpc@47 [installed: 43]
+[Modules] Module update available: discord_toaster@47 [installed: 43]
+[Modules] Module update available: discord_utils@47 [installed: 43]
+[Modules] Module update available: discord_voice@48 [installed: 44]
+[Modules] Fetching discord_rpc@47 from https://discordapp.com/api/modules/canary/discord_rpc/47
+[Modules] Streaming discord_rpc@47 [516275 bytes] to /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_rpc-47.zip
+[Modules] Fetching discord_toaster@47 from https://discordapp.com/api/modules/canary/discord_toaster/47
+[Modules] Streaming discord_toaster@47 [1943890 bytes] to /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_toaster-47.zip
+[Modules] Fetching discord_utils@47 from https://discordapp.com/api/modules/canary/discord_utils/47
+[Modules] Streaming discord_utils@47 [1082450 bytes] to /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_utils-47.zip
+[Modules] Fetching discord_voice@48 from https://discordapp.com/api/modules/canary/discord_voice/48
+[Modules] Streaming discord_voice@48 [7821093 bytes] to /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_voice-48.zip
+[Modules] Finished module downloads. [success: 4] [failure: 0]
+[Modules] Relaunching to install module updates...
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Install path: /home/holzel/.config/discordcanary/0.0.24/modules
+[Modules] Installing updates...
+[Modules] Installing discord_rpc@47 from /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_rpc-47.zip
+[Modules] Installing discord_toaster@47 from /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_toaster-47.zip
+[Modules] Installing discord_utils@47 from /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_utils-47.zip
+[Modules] Installing discord_voice@48 from /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_voice-48.zip
+[Modules] Finished module installations. [success: 4] [failure: 0]
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Install path: /home/holzel/.config/discordcanary/0.0.24/modules
+[Modules] No updates to install
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Install path: /home/holzel/.config/discordcanary/0.0.24/modules
+[Modules] No updates to install
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] Module update available: discord_rpc@48 [installed: 47]
+[Modules] Module update available: discord_toaster@48 [installed: 47]
+[Modules] Module update available: discord_utils@48 [installed: 47]
+[Modules] Module update available: discord_voice@49 [installed: 48]
+[Modules] Fetching discord_rpc@48 from https://discordapp.com/api/modules/canary/discord_rpc/48
+[Modules] Streaming discord_rpc@48 [516275 bytes] to /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_rpc-48.zip
+[Modules] Fetching discord_toaster@48 from https://discordapp.com/api/modules/canary/discord_toaster/48
+[Modules] Streaming discord_toaster@48 [1943890 bytes] to /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_toaster-48.zip
+[Modules] Fetching discord_utils@48 from https://discordapp.com/api/modules/canary/discord_utils/48
+[Modules] Streaming discord_utils@48 [1082450 bytes] to /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_utils-48.zip
+[Modules] Fetching discord_voice@49 from https://discordapp.com/api/modules/canary/discord_voice/49
+[Modules] Streaming discord_voice@49 [7825009 bytes] to /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_voice-49.zip
+[Modules] Finished module downloads. [success: 4] [failure: 0]
+[Modules] Relaunching to install module updates...
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Install path: /home/holzel/.config/discordcanary/0.0.24/modules
+[Modules] Installing updates...
+[Modules] Installing discord_rpc@48 from /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_rpc-48.zip
+[Modules] Installing discord_toaster@48 from /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_toaster-48.zip
+[Modules] Installing discord_utils@48 from /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_utils-48.zip
+[Modules] Installing discord_voice@49 from /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_voice-49.zip
+[Modules] Finished module installations. [success: 4] [failure: 0]
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Install path: /home/holzel/.config/discordcanary/0.0.24/modules
+[Modules] No updates to install
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Install path: /home/holzel/.config/discordcanary/0.0.24/modules
+[Modules] No updates to install
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] Module update available: discord_rpc@58 [installed: 48]
+[Modules] Module update available: discord_toaster@58 [installed: 48]
+[Modules] Module update available: discord_utils@58 [installed: 48]
+[Modules] Module update available: discord_voice@59 [installed: 49]
+[Modules] Fetching discord_rpc@58 from https://discordapp.com/api/modules/canary/discord_rpc/58
+[Modules] Streaming discord_rpc@58 [516275 bytes] to /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_rpc-58.zip
+[Modules] Fetching discord_toaster@58 from https://discordapp.com/api/modules/canary/discord_toaster/58
+[Modules] Streaming discord_toaster@58 [1944295 bytes] to /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_toaster-58.zip
+[Modules] Fetching discord_utils@58 from https://discordapp.com/api/modules/canary/discord_utils/58
+[Modules] Streaming discord_utils@58 [1082956 bytes] to /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_utils-58.zip
+[Modules] Fetching discord_voice@59 from https://discordapp.com/api/modules/canary/discord_voice/59
+[Modules] Streaming discord_voice@59 [8205258 bytes] to /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_voice-59.zip
+[Modules] Finished module downloads. [success: 4] [failure: 0]
+[Modules] Relaunching to install module updates...
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Install path: /home/holzel/.config/discordcanary/0.0.24/modules
+[Modules] Installing updates...
+[Modules] Installing discord_rpc@58 from /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_rpc-58.zip
+[Modules] Installing discord_toaster@58 from /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_toaster-58.zip
+[Modules] Installing discord_utils@58 from /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_utils-58.zip
+[Modules] Installing discord_voice@59 from /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_voice-59.zip
+[Modules] Finished module installations. [success: 4] [failure: 0]
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Install path: /home/holzel/.config/discordcanary/0.0.24/modules
+[Modules] No updates to install
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] Module update available: discord_rpc@59 [installed: 58]
+[Modules] Module update available: discord_toaster@59 [installed: 58]
+[Modules] Module update available: discord_utils@59 [installed: 58]
+[Modules] Module update available: discord_voice@60 [installed: 59]
+[Modules] Fetching discord_rpc@59 from https://discordapp.com/api/modules/canary/discord_rpc/59
+[Modules] Streaming discord_rpc@59 [516275 bytes] to /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_rpc-59.zip
+[Modules] Fetching discord_toaster@59 from https://discordapp.com/api/modules/canary/discord_toaster/59
+[Modules] Streaming discord_toaster@59 [1944295 bytes] to /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_toaster-59.zip
+[Modules] Fetching discord_utils@59 from https://discordapp.com/api/modules/canary/discord_utils/59
+[Modules] Streaming discord_utils@59 [1082956 bytes] to /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_utils-59.zip
+[Modules] Fetching discord_voice@60 from https://discordapp.com/api/modules/canary/discord_voice/60
+[Modules] Streaming discord_voice@60 [8205258 bytes] to /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_voice-60.zip
+[Modules] Finished module downloads. [success: 4] [failure: 0]
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Install path: /home/holzel/.config/discordcanary/0.0.24/modules
+[Modules] Installing updates...
+[Modules] Installing discord_rpc@59 from /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_rpc-59.zip
+[Modules] Installing discord_toaster@59 from /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_toaster-59.zip
+[Modules] Installing discord_utils@59 from /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_utils-59.zip
+[Modules] Installing discord_voice@60 from /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_voice-60.zip
+[Modules] Finished module installations. [success: 4] [failure: 0]
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] Module update available: discord_rpc@63 [installed: 59]
+[Modules] Module update available: discord_toaster@63 [installed: 59]
+[Modules] Module update available: discord_utils@63 [installed: 59]
+[Modules] Module update available: discord_voice@64 [installed: 60]
+[Modules] Fetching discord_rpc@63 from https://discordapp.com/api/modules/canary/discord_rpc/63
+[Modules] Streaming discord_rpc@63 [516275 bytes] to /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_rpc-63.zip
+[Modules] Fetching discord_toaster@63 from https://discordapp.com/api/modules/canary/discord_toaster/63
+[Modules] Streaming discord_toaster@63 [1944295 bytes] to /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_toaster-63.zip
+[Modules] Fetching discord_utils@63 from https://discordapp.com/api/modules/canary/discord_utils/63
+[Modules] Streaming discord_utils@63 [1082956 bytes] to /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_utils-63.zip
+[Modules] Fetching discord_voice@64 from https://discordapp.com/api/modules/canary/discord_voice/64
+[Modules] Streaming discord_voice@64 [8241754 bytes] to /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_voice-64.zip
+[Modules] Finished module downloads. [success: 4] [failure: 0]
+[Modules] Relaunching to install module updates...
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Install path: /home/holzel/.config/discordcanary/0.0.24/modules
+[Modules] Installing updates...
+[Modules] Installing discord_rpc@63 from /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_rpc-63.zip
+[Modules] Installing discord_toaster@63 from /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_toaster-63.zip
+[Modules] Installing discord_utils@63 from /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_utils-63.zip
+[Modules] Installing discord_voice@64 from /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_voice-64.zip
+[Modules] Finished module installations. [success: 4] [failure: 0]
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Install path: /home/holzel/.config/discordcanary/0.0.24/modules
+[Modules] No updates to install
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Install path: /home/holzel/.config/discordcanary/0.0.24/modules
+[Modules] No updates to install
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host update failed: undefined
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Install path: /home/holzel/.config/discordcanary/0.0.24/modules
+[Modules] No updates to install
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Install path: /home/holzel/.config/discordcanary/0.0.24/modules
+[Modules] No updates to install
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] Module update available: discord_rpc@65 [installed: 63]
+[Modules] Module update available: discord_toaster@65 [installed: 63]
+[Modules] Module update available: discord_utils@65 [installed: 63]
+[Modules] Module update available: discord_voice@66 [installed: 64]
+[Modules] Fetching discord_rpc@65 from https://discordapp.com/api/modules/canary/discord_rpc/65
+[Modules] Streaming discord_rpc@65 [516275 bytes] to /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_rpc-65.zip
+[Modules] Fetching discord_toaster@65 from https://discordapp.com/api/modules/canary/discord_toaster/65
+[Modules] Streaming discord_toaster@65 [1944302 bytes] to /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_toaster-65.zip
+[Modules] Fetching discord_utils@65 from https://discordapp.com/api/modules/canary/discord_utils/65
+[Modules] Streaming discord_utils@65 [1082975 bytes] to /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_utils-65.zip
+[Modules] Fetching discord_voice@66 from https://discordapp.com/api/modules/canary/discord_voice/66
+[Modules] Streaming discord_voice@66 [8241793 bytes] to /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_voice-66.zip
+[Modules] Finished module downloads. [success: 4] [failure: 0]
+[Modules] Relaunching to install module updates...
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Install path: /home/holzel/.config/discordcanary/0.0.24/modules
+[Modules] Installing updates...
+[Modules] Installing discord_rpc@65 from /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_rpc-65.zip
+[Modules] Installing discord_toaster@65 from /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_toaster-65.zip
+[Modules] Installing discord_utils@65 from /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_utils-65.zip
+[Modules] Installing discord_voice@66 from /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_voice-66.zip
+[Modules] Finished module installations. [success: 4] [failure: 0]
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] Module update available: discord_rpc@66 [installed: 65]
+[Modules] Module update available: discord_toaster@66 [installed: 65]
+[Modules] Module update available: discord_utils@66 [installed: 65]
+[Modules] Module update available: discord_voice@67 [installed: 66]
+[Modules] Fetching discord_rpc@66 from https://discordapp.com/api/modules/canary/discord_rpc/66
+[Modules] Streaming discord_rpc@66 [516275 bytes] to /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_rpc-66.zip
+[Modules] Fetching discord_toaster@66 from https://discordapp.com/api/modules/canary/discord_toaster/66
+[Modules] Streaming discord_toaster@66 [1944302 bytes] to /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_toaster-66.zip
+[Modules] Fetching discord_utils@66 from https://discordapp.com/api/modules/canary/discord_utils/66
+[Modules] Streaming discord_utils@66 [1082975 bytes] to /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_utils-66.zip
+[Modules] Fetching discord_voice@67 from https://discordapp.com/api/modules/canary/discord_voice/67
+[Modules] Streaming discord_voice@67 [8241938 bytes] to /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_voice-67.zip
+[Modules] Finished module downloads. [success: 4] [failure: 0]
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Install path: /home/holzel/.config/discordcanary/0.0.24/modules
+[Modules] Installing updates...
+[Modules] Installing discord_rpc@66 from /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_rpc-66.zip
+[Modules] Installing discord_toaster@66 from /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_toaster-66.zip
+[Modules] Installing discord_utils@66 from /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_utils-66.zip
+[Modules] Installing discord_voice@67 from /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_voice-67.zip
+[Modules] Finished module installations. [success: 4] [failure: 0]
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] Module update available: discord_rpc@72 [installed: 66]
+[Modules] Module update available: discord_toaster@72 [installed: 66]
+[Modules] Module update available: discord_utils@72 [installed: 66]
+[Modules] Module update available: discord_voice@73 [installed: 67]
+[Modules] Fetching discord_rpc@72 from https://discordapp.com/api/modules/canary/discord_rpc/72
+[Modules] Streaming discord_rpc@72 [516275 bytes] to /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_rpc-72.zip
+[Modules] Fetching discord_toaster@72 from https://discordapp.com/api/modules/canary/discord_toaster/72
+[Modules] Streaming discord_toaster@72 [1944302 bytes] to /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_toaster-72.zip
+[Modules] Fetching discord_utils@72 from https://discordapp.com/api/modules/canary/discord_utils/72
+[Modules] Streaming discord_utils@72 [1086827 bytes] to /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_utils-72.zip
+[Modules] Fetching discord_voice@73 from https://discordapp.com/api/modules/canary/discord_voice/73
+[Modules] Streaming discord_voice@73 [8241973 bytes] to /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_voice-73.zip
+[Modules] Finished module downloads. [success: 4] [failure: 0]
+[Modules] Relaunching to install module updates...
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Install path: /home/holzel/.config/discordcanary/0.0.24/modules
+[Modules] Installing updates...
+[Modules] Installing discord_rpc@72 from /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_rpc-72.zip
+[Modules] Installing discord_toaster@72 from /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_toaster-72.zip
+[Modules] Installing discord_utils@72 from /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_utils-72.zip
+[Modules] Installing discord_voice@73 from /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_voice-73.zip
+[Modules] Finished module installations. [success: 4] [failure: 0]
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Install path: /home/holzel/.config/discordcanary/0.0.24/modules
+[Modules] No updates to install
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] Module update available: discord_rpc@73 [installed: 72]
+[Modules] Module update available: discord_toaster@73 [installed: 72]
+[Modules] Module update available: discord_utils@73 [installed: 72]
+[Modules] Module update available: discord_voice@74 [installed: 73]
+[Modules] Fetching discord_rpc@73 from https://discordapp.com/api/modules/canary/discord_rpc/73
+[Modules] Streaming discord_rpc@73 [516275 bytes] to /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_rpc-73.zip
+[Modules] Fetching discord_toaster@73 from https://discordapp.com/api/modules/canary/discord_toaster/73
+[Modules] Streaming discord_toaster@73 [1944302 bytes] to /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_toaster-73.zip
+[Modules] Fetching discord_utils@73 from https://discordapp.com/api/modules/canary/discord_utils/73
+[Modules] Streaming discord_utils@73 [1086827 bytes] to /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_utils-73.zip
+[Modules] Fetching discord_voice@74 from https://discordapp.com/api/modules/canary/discord_voice/74
+[Modules] Streaming discord_voice@74 [8264909 bytes] to /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_voice-74.zip
+[Modules] Finished module downloads. [success: 4] [failure: 0]
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Install path: /home/holzel/.config/discordcanary/0.0.24/modules
+[Modules] Installing updates...
+[Modules] Installing discord_rpc@73 from /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_rpc-73.zip
+[Modules] Installing discord_toaster@73 from /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_toaster-73.zip
+[Modules] Installing discord_utils@73 from /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_utils-73.zip
+[Modules] Installing discord_voice@74 from /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_voice-74.zip
+[Modules] Finished module installations. [success: 4] [failure: 0]
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] Module update available: discord_rpc@74 [installed: 73]
+[Modules] Module update available: discord_toaster@74 [installed: 73]
+[Modules] Module update available: discord_utils@74 [installed: 73]
+[Modules] Module update available: discord_voice@75 [installed: 74]
+[Modules] Fetching discord_rpc@74 from https://discordapp.com/api/modules/canary/discord_rpc/74
+[Modules] Streaming discord_rpc@74 [516275 bytes] to /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_rpc-74.zip
+[Modules] Fetching discord_toaster@74 from https://discordapp.com/api/modules/canary/discord_toaster/74
+[Modules] Streaming discord_toaster@74 [1944302 bytes] to /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_toaster-74.zip
+[Modules] Fetching discord_utils@74 from https://discordapp.com/api/modules/canary/discord_utils/74
+[Modules] Streaming discord_utils@74 [1086827 bytes] to /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_utils-74.zip
+[Modules] Fetching discord_voice@75 from https://discordapp.com/api/modules/canary/discord_voice/75
+[Modules] Streaming discord_voice@75 [8264909 bytes] to /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_voice-75.zip
+[Modules] Finished module downloads. [success: 4] [failure: 0]
+[Modules] Relaunching to install module updates...
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Install path: /home/holzel/.config/discordcanary/0.0.24/modules
+[Modules] Installing updates...
+[Modules] Installing discord_rpc@74 from /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_rpc-74.zip
+[Modules] Installing discord_toaster@74 from /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_toaster-74.zip
+[Modules] Installing discord_utils@74 from /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_utils-74.zip
+[Modules] Installing discord_voice@75 from /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_voice-75.zip
+[Modules] Finished module installations. [success: 4] [failure: 0]
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Install path: /home/holzel/.config/discordcanary/0.0.24/modules
+[Modules] No updates to install
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] Module update available: discord_rpc@75 [installed: 74]
+[Modules] Module update available: discord_toaster@75 [installed: 74]
+[Modules] Module update available: discord_utils@75 [installed: 74]
+[Modules] Module update available: discord_voice@76 [installed: 75]
+[Modules] Fetching discord_rpc@75 from https://discordapp.com/api/modules/canary/discord_rpc/75
+[Modules] Streaming discord_rpc@75 [516275 bytes] to /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_rpc-75.zip
+[Modules] Fetching discord_toaster@75 from https://discordapp.com/api/modules/canary/discord_toaster/75
+[Modules] Streaming discord_toaster@75 [1944302 bytes] to /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_toaster-75.zip
+[Modules] Fetching discord_utils@75 from https://discordapp.com/api/modules/canary/discord_utils/75
+[Modules] Streaming discord_utils@75 [1086827 bytes] to /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_utils-75.zip
+[Modules] Fetching discord_voice@76 from https://discordapp.com/api/modules/canary/discord_voice/76
+[Modules] Streaming discord_voice@76 [8273574 bytes] to /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_voice-76.zip
+[Modules] Finished module downloads. [success: 4] [failure: 0]
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Install path: /home/holzel/.config/discordcanary/0.0.24/modules
+[Modules] Installing updates...
+[Modules] Installing discord_rpc@75 from /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_rpc-75.zip
+[Modules] Installing discord_toaster@75 from /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_toaster-75.zip
+[Modules] Installing discord_utils@75 from /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_utils-75.zip
+[Modules] Installing discord_voice@76 from /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_voice-76.zip
+[Modules] Finished module installations. [success: 4] [failure: 0]
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Install path: /home/holzel/.config/discordcanary/0.0.24/modules
+[Modules] No updates to install
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Install path: /home/holzel/.config/discordcanary/0.0.24/modules
+[Modules] No updates to install
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Install path: /home/holzel/.config/discordcanary/0.0.24/modules
+[Modules] No updates to install
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] Module update available: discord_rpc@78 [installed: 75]
+[Modules] Module update available: discord_toaster@78 [installed: 75]
+[Modules] Module update available: discord_utils@78 [installed: 75]
+[Modules] Module update available: discord_voice@79 [installed: 76]
+[Modules] Fetching discord_rpc@78 from https://discordapp.com/api/modules/canary/discord_rpc/78
+[Modules] Streaming discord_rpc@78 [516275 bytes] to /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_rpc-78.zip
+[Modules] Fetching discord_toaster@78 from https://discordapp.com/api/modules/canary/discord_toaster/78
+[Modules] Streaming discord_toaster@78 [1944302 bytes] to /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_toaster-78.zip
+[Modules] Fetching discord_utils@78 from https://discordapp.com/api/modules/canary/discord_utils/78
+[Modules] Streaming discord_utils@78 [1086827 bytes] to /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_utils-78.zip
+[Modules] Fetching discord_voice@79 from https://discordapp.com/api/modules/canary/discord_voice/79
+[Modules] Streaming discord_voice@79 [8273574 bytes] to /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_voice-79.zip
+[Modules] Finished module downloads. [success: 4] [failure: 0]
+[Modules] Relaunching to install module updates...
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Install path: /home/holzel/.config/discordcanary/0.0.24/modules
+[Modules] Installing updates...
+[Modules] Installing discord_rpc@78 from /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_rpc-78.zip
+[Modules] Installing discord_toaster@78 from /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_toaster-78.zip
+[Modules] Installing discord_utils@78 from /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_utils-78.zip
+[Modules] Installing discord_voice@79 from /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_voice-79.zip
+[Modules] Finished module installations. [success: 4] [failure: 0]
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Install path: /home/holzel/.config/discordcanary/0.0.24/modules
+[Modules] No updates to install
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Install path: /home/holzel/.config/discordcanary/0.0.24/modules
+[Modules] No updates to install
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] Module update available: discord_rpc@79 [installed: 78]
+[Modules] Module update available: discord_toaster@79 [installed: 78]
+[Modules] Module update available: discord_utils@79 [installed: 78]
+[Modules] Module update available: discord_voice@80 [installed: 79]
+[Modules] Fetching discord_rpc@79 from https://discordapp.com/api/modules/canary/discord_rpc/79
+[Modules] Streaming discord_rpc@79 [516275 bytes] to /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_rpc-79.zip
+[Modules] Fetching discord_toaster@79 from https://discordapp.com/api/modules/canary/discord_toaster/79
+[Modules] Streaming discord_toaster@79 [1944302 bytes] to /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_toaster-79.zip
+[Modules] Fetching discord_utils@79 from https://discordapp.com/api/modules/canary/discord_utils/79
+[Modules] Streaming discord_toaster@79 [1 bytes] to /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_toaster-79.zip
+[Modules] Waiting 1000ms before next download.
+[Modules] Fetching discord_voice@80 from https://discordapp.com/api/modules/canary/discord_voice/80
+[Modules] Streaming discord_voice@80 [8273574 bytes] to /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_voice-80.zip
+[Modules] Streaming discord_utils@79 [1 bytes] to /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_utils-79.zip
+[Modules] Finished module downloads. [success: 2] [failure: 2]
+[Modules] Waiting 1993ms before next download.
+[Modules] Finished module downloads. [success: 0] [failure: 0]
+[Modules] Streaming discord_voice@80 [1 bytes] to /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_voice-80.zip
+[Modules] Finished module downloads. [success: -1] [failure: 1]
+[Modules] Waiting 1000ms before next download.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] Module update available: discord_utils@79 [installed: 78]
+[Modules] Fetching discord_utils@79 from https://discordapp.com/api/modules/canary/discord_utils/79
+[Modules] Streaming discord_utils@79 [1086827 bytes] to /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_utils-79.zip
+[Modules] Finished module downloads. [success: 1] [failure: 0]
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Install path: /home/holzel/.config/discordcanary/0.0.24/modules
+[Modules] Installing updates...
+[Modules] Installing discord_rpc@79 from /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_rpc-79.zip
+[Modules] Installing discord_toaster@79 from /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_toaster-79.zip
+[Modules] Failed installing discord_toaster@79: {}
+[Modules] Installing discord_utils@79 from /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_utils-79.zip
+[Modules] Installing discord_voice@80 from /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_voice-80.zip
+[Modules] Failed installing discord_voice@80: {}
+[Modules] Finished module installations. [success: 2] [failure: 2]
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] Module update available: discord_rpc@80 [installed: 79]
+[Modules] Module update available: discord_toaster@80 [installed: 78]
+[Modules] Module update available: discord_utils@80 [installed: 79]
+[Modules] Module update available: discord_voice@81 [installed: 79]
+[Modules] Fetching discord_rpc@80 from https://discordapp.com/api/modules/canary/discord_rpc/80
+[Modules] Streaming discord_rpc@80 [516275 bytes] to /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_rpc-80.zip
+[Modules] Fetching discord_toaster@80 from https://discordapp.com/api/modules/canary/discord_toaster/80
+[Modules] Streaming discord_toaster@80 [1944302 bytes] to /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_toaster-80.zip
+[Modules] Fetching discord_utils@80 from https://discordapp.com/api/modules/canary/discord_utils/80
+[Modules] Streaming discord_utils@80 [1086827 bytes] to /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_utils-80.zip
+[Modules] Fetching discord_voice@81 from https://discordapp.com/api/modules/canary/discord_voice/81
+[Modules] Streaming discord_voice@81 [8273574 bytes] to /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_voice-81.zip
+[Modules] Finished module downloads. [success: 4] [failure: 0]
+[Modules] Relaunching to install module updates...
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Install path: /home/holzel/.config/discordcanary/0.0.24/modules
+[Modules] Installing updates...
+[Modules] Installing discord_rpc@80 from /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_rpc-80.zip
+[Modules] Installing discord_toaster@80 from /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_toaster-80.zip
+[Modules] Installing discord_utils@80 from /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_utils-80.zip
+[Modules] Installing discord_voice@81 from /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_voice-81.zip
+[Modules] Finished module installations. [success: 4] [failure: 0]
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Install path: /home/holzel/.config/discordcanary/0.0.24/modules
+[Modules] No updates to install
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] Module update available: discord_rpc@81 [installed: 80]
+[Modules] Module update available: discord_toaster@81 [installed: 80]
+[Modules] Module update available: discord_utils@81 [installed: 80]
+[Modules] Module update available: discord_voice@82 [installed: 81]
+[Modules] Fetching discord_rpc@81 from https://discordapp.com/api/modules/canary/discord_rpc/81
+[Modules] Streaming discord_rpc@81 [516275 bytes] to /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_rpc-81.zip
+[Modules] Fetching discord_toaster@81 from https://discordapp.com/api/modules/canary/discord_toaster/81
+[Modules] Streaming discord_toaster@81 [1944302 bytes] to /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_toaster-81.zip
+[Modules] Fetching discord_utils@81 from https://discordapp.com/api/modules/canary/discord_utils/81
+[Modules] Streaming discord_utils@81 [1086827 bytes] to /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_utils-81.zip
+[Modules] Fetching discord_voice@82 from https://discordapp.com/api/modules/canary/discord_voice/82
+[Modules] Streaming discord_voice@82 [8273574 bytes] to /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_voice-82.zip
+[Modules] Finished module downloads. [success: 4] [failure: 0]
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Install path: /home/holzel/.config/discordcanary/0.0.24/modules
+[Modules] Installing updates...
+[Modules] Installing discord_rpc@81 from /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_rpc-81.zip
+[Modules] Installing discord_toaster@81 from /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_toaster-81.zip
+[Modules] Installing discord_utils@81 from /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_utils-81.zip
+[Modules] Installing discord_voice@82 from /home/holzel/.config/discordcanary/0.0.24/modules/pending/discord_voice-82.zip
+[Modules] Finished module installations. [success: 4] [failure: 0]
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.

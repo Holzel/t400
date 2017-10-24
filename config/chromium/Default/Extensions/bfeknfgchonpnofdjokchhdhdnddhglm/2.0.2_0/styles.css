@@ -1,0 +1,80 @@
+[page-subtype="channels"] #tabs-inner-container,
+[page-subtype="channels"] #channel-header {
+  background-color: #404047 !important; }
+
+[page-subtype="channels"] #channel-title, [page-subtype="channels"] #label-text, [page-subtype="channels"] .tab-content {
+  color: #e6e6e6 !important; }
+
+[page-subtype="channels"] #selectionBar {
+  background-color: #e6e6e6 !important; }
+
+ytd-masthead {
+  background-color: #28282c !important; }
+  ytd-masthead #logo-icon {
+    filter: grayscale(100%) invert(100%) !important; }
+  ytd-masthead #menu-button yt-icon {
+    fill: #e6e6e6 !important; }
+
+iron-icon {
+  color: inherit !important; }
+
+.yt-horizontal-list-renderer yt-icon {
+  fill: #1c1c1f !important; }
+
+body,
+ytd-app {
+  background-color: #1c1c1f !important;
+  color: #e6e6e6 !important; }
+
+a,
+yt-formatted-string,
+paper-button, paper-button span {
+  color: #e6e6e6 !important; }
+
+h1, h2, h3, h4, h5,
+#title {
+  color: #f2f2f2 !important; }
+
+ytd-compact-autoplay-renderer,
+ytd-video-primary-info-renderer,
+ytd-video-secondary-info-renderer,
+yt-formatted-string,
+ytd-item-section-renderer {
+  border-color: #34343a !important; }
+
+#guide-content {
+  background-color: #28282c !important; }
+  #guide-content a {
+    color: #e6e6e6 !important; }
+  #guide-content a:hover {
+    color: #0d0d0d !important;
+    background-color: #cccccc !important; }
+  #guide-content #header iron-icon {
+    filter: grayscale(100%) invert(100%) !important; }
+  #guide-content iron-icon {
+    color: inherit !important; }
+  #guide-content #header,
+  #guide-content .ytd-guide-renderer,
+  #guide-content #footer > * {
+    border-color: #34343a !important; }
+
+ytd-video-renderer #metadata-line, ytd-video-renderer #byline a,
+ytd-grid-video-renderer #metadata-line,
+ytd-grid-video-renderer #byline a,
+ytd-grid-playlist-renderer #metadata-line,
+ytd-grid-playlist-renderer #byline a {
+  color: #b3b3b3 !important; }
+
+ytd-video-renderer .badge yt-icon,
+ytd-grid-video-renderer .badge yt-icon,
+ytd-grid-playlist-renderer .badge yt-icon {
+  fill: #b3b3b3 !important; }
+
+ytd-watch iron-icon {
+  filter: grayscale(100%) invert(100%) !important; }
+
+ytd-watch :hover yt-icon {
+  fill: white !important; }
+
+ytd-watch ytd-video-secondary-info-renderer a {
+  color: #ccccff !important; }

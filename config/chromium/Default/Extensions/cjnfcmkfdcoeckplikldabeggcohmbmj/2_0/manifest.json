@@ -1,0 +1,20 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://proxy.siteflex.net/"
+      },
+      "urls": [ "http://proxy.siteflex.net/" ]
+   },
+   "author": "Siteflex LLC",
+   "description": "This is a straightforward anonymizing solution allows for a safe, anonymous and online based browsing.",
+   "icons": {
+      "128": "anonymous-128.png",
+      "16": "anonymous-16.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtj6X6u6fOSaVIfjoxzlZpZ/ZV2VkBWv4o7qNwmnC7vs8vR85650pteHDBz4x+H2bwIi4VkkGBnLOVR4siNzqk3UDC96j8xY4YDxJ6A/Ku4Oe7TivZ0cmz+EQ9J9ZXbtfdzVhtRN3lnJnR2tb2JtNg3bKoRsW/NWFvNc0/jWRWTBiVX3BlDVGm7JKcVcB+jbgBUfRnvJNMoH2cwzM10VWsHJmRqzkiSRr+ska7Dkbuey8aOnPeY/0aptRCVO1oEUiJVDyLSKqP1IoZhZxmDEESUZ5YwGRGz6diEYIXaNARBEhqyEmaLlMSF7EXXhKgtpBD24pMqI2yCJ3y4yh0YlcfQIDAQAB",
+   "manifest_version": 2,
+   "name": "Anonymous Proxy Browser",
+   "short_name": "Anonymous Browsing",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2"
+}

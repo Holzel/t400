@@ -1,0 +1,22 @@
+2017/10/22-21:57:11.062 3203 Reusing MANIFEST /home/holzel/.config/chromium/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/MANIFEST-000001
+2017/10/22-21:57:11.062 3203 Recovering log #918
+2017/10/22-21:57:11.108 3203 Level-0 table #921: started
+2017/10/22-21:57:11.260 3203 Level-0 table #921: 2871069 bytes OK
+2017/10/22-21:57:11.302 3203 Delete type=0 #918
+2017/10/22-21:58:12.107 3494 Level-0 table #924: started
+2017/10/22-21:58:12.281 3494 Level-0 table #924: 2870863 bytes OK
+2017/10/22-21:58:12.340 3494 Delete type=0 #922
+2017/10/22-21:58:12.342 3494 Compacting 4@0 + 2@1 files
+2017/10/22-21:58:12.582 3494 Generated table #925@0: 1 keys, 2870785 bytes
+2017/10/22-21:58:12.625 3494 Generated table #926@0: 3 keys, 373 bytes
+2017/10/22-21:58:12.625 3494 Compacted 4@0 + 2@1 files => 2871158 bytes
+2017/10/22-21:58:12.667 3494 compacted to: files[ 0 4 7 0 0 0 0 ]
+2017/10/22-21:58:12.668 3494 Delete type=2 #916
+2017/10/22-21:58:12.668 3494 Delete type=2 #924
+2017/10/22-21:58:12.669 3494 Delete type=2 #913
+2017/10/22-21:58:12.669 3494 Delete type=2 #914
+2017/10/22-21:58:12.669 3494 Delete type=2 #921
+2017/10/22-21:58:12.670 3494 Delete type=2 #919
+2017/10/22-22:00:52.223 3494 Level-0 table #928: started
+2017/10/22-22:00:52.494 3494 Level-0 table #928: 2871066 bytes OK
+2017/10/22-22:00:52.588 3494 Delete type=0 #923
