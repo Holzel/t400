@@ -1,21 +1,21 @@
-2017/10/09-13:30:38.131 29754 Reusing MANIFEST /home/holzel/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2017/10/09-13:30:38.131 29754 Recovering log #91
-2017/10/09-13:30:38.167 29754 Reusing old log /home/holzel/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000091.log 
-2017/10/09-13:30:43.884 30179 Level-0 table #95: started
-2017/10/09-13:30:44.078 30179 Level-0 table #95: 1243608 bytes OK
-2017/10/09-13:30:44.164 30179 Delete type=0 #91
-2017/10/09-13:30:45.211 30179 Level-0 table #97: started
-2017/10/09-13:30:45.395 30179 Level-0 table #97: 1261544 bytes OK
-2017/10/09-13:30:45.506 30179 Delete type=0 #94
-2017/10/09-13:30:46.664 30179 Level-0 table #99: started
-2017/10/09-13:30:46.801 30179 Level-0 table #99: 1261544 bytes OK
-2017/10/09-13:30:46.846 30179 Delete type=0 #96
-2017/10/09-13:30:46.854 30179 Compacting 4@0 + 1@1 files
-2017/10/09-13:30:47.119 30179 Generated table #100@0: 13 keys, 1261483 bytes
-2017/10/09-13:30:47.119 30179 Compacted 4@0 + 1@1 files => 1261483 bytes
-2017/10/09-13:30:47.269 30179 compacted to: files[ 0 1 1 0 0 0 0 ]
-2017/10/09-13:30:47.269 30179 Delete type=2 #97
-2017/10/09-13:30:47.269 30179 Delete type=2 #99
-2017/10/09-13:30:47.270 30179 Delete type=2 #95
-2017/10/09-13:30:47.270 30179 Delete type=2 #90
-2017/10/09-13:30:47.288 30179 Delete type=2 #92
+2017/11/14-08:50:34.769 1011 Reusing MANIFEST /home/holzel/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2017/11/14-08:50:34.769 1011 Recovering log #406
+2017/11/14-08:50:34.782 1011 Reusing old log /home/holzel/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000406.log 
+2017/11/14-08:50:37.758 1382 Level-0 table #410: started
+2017/11/14-08:50:37.883 1382 Level-0 table #410: 1244523 bytes OK
+2017/11/14-08:50:37.967 1382 Delete type=0 #406
+2017/11/14-08:50:37.975 1382 Compacting 4@0 + 1@1 files
+2017/11/14-08:50:38.142 1382 Generated table #411@0: 13 keys, 1263725 bytes
+2017/11/14-08:50:38.142 1382 Compacted 4@0 + 1@1 files => 1263725 bytes
+2017/11/14-08:50:38.184 1382 compacted to: files[ 0 1 1 0 0 0 0 ]
+2017/11/14-08:50:38.184 1382 Delete type=2 #410
+2017/11/14-08:50:38.184 1382 Delete type=2 #407
+2017/11/14-08:50:38.199 1382 Delete type=2 #400
+2017/11/14-08:50:38.199 1382 Delete type=2 #403
+2017/11/14-08:50:38.203 1382 Delete type=2 #405
+2017/11/14-08:50:39.082 1382 Level-0 table #413: started
+2017/11/14-08:50:39.194 1382 Level-0 table #413: 1263703 bytes OK
+2017/11/14-08:50:39.281 1382 Delete type=0 #409
+2017/11/14-08:50:40.392 1382 Level-0 table #415: started
+2017/11/14-08:50:40.536 1382 Level-0 table #415: 1263707 bytes OK
+2017/11/14-08:50:40.596 1382 Delete type=0 #412

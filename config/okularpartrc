@@ -1,3 +1,6 @@
 [Main View]
 ShowLeftPanel=false
 SplitterSizes=90,452
+
+[PageView]
+MouseMode=Zoom

@@ -3,6 +3,7 @@ text/x-matlab=atom.desktop;
 application/pdf=okularApplication_pdf.desktop;libreoffice-draw.desktop;
 video/x-matroska=vlc.desktop;
 text/html=qutebrowser.desktop;
+image/png=okularApplication_kimgio.desktop;feh.desktop;
 
 [Default Applications]
 text/html=google-chrome.desktop

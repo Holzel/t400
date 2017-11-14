@@ -1,3 +1,6 @@
-2017/10/22-21:57:10.866 3201 Reusing MANIFEST /home/holzel/.config/chromium/Default/Session Storage/MANIFEST-000001
-2017/10/22-21:57:10.867 3201 Recovering log #72
-2017/10/22-21:57:10.867 3201 Reusing old log /home/holzel/.config/chromium/Default/Session Storage/000072.log 
+2017/10/29-11:05:46.597 927 Reusing MANIFEST /home/holzel/.config/chromium/Default/Session Storage/MANIFEST-000001
+2017/10/29-11:05:46.597 927 Recovering log #72
+2017/10/29-11:05:46.748 927 Reusing old log /home/holzel/.config/chromium/Default/Session Storage/000072.log 
+2017/10/29-11:08:41.488 948 Level-0 table #76: started
+2017/10/29-11:08:41.532 948 Level-0 table #76: 17986 bytes OK
+2017/10/29-11:08:41.574 948 Delete type=0 #72

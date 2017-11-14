@@ -1,19 +1,17 @@
-2017/10/23-19:15:13.392 1783 Reusing MANIFEST /home/holzel/.config/google-chrome/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/MANIFEST-000001
-2017/10/23-19:15:13.392 1783 Recovering log #261
-2017/10/23-19:15:13.553 1783 Level-0 table #264: started
-2017/10/23-19:15:13.739 1783 Level-0 table #264: 2871359 bytes OK
-2017/10/23-19:15:13.781 1783 Delete type=0 #261
-2017/10/23-19:16:15.284 2214 Level-0 table #267: started
-2017/10/23-19:16:15.451 2214 Level-0 table #267: 2871189 bytes OK
-2017/10/23-19:16:15.485 2214 Delete type=0 #265
-2017/10/23-19:16:15.487 2214 Compacting 4@0 + 2@1 files
-2017/10/23-19:16:15.735 2214 Generated table #268@0: 1 keys, 2871114 bytes
-2017/10/23-19:16:15.777 2214 Generated table #269@0: 3 keys, 368 bytes
-2017/10/23-19:16:15.777 2214 Compacted 4@0 + 2@1 files => 2871482 bytes
-2017/10/23-19:16:15.811 2214 compacted to: files[ 0 4 5 0 0 0 0 ]
-2017/10/23-19:16:15.811 2214 Delete type=2 #267
-2017/10/23-19:16:15.811 2214 Delete type=2 #264
-2017/10/23-19:16:15.812 2214 Delete type=2 #259
-2017/10/23-19:16:15.813 2214 Delete type=2 #257
-2017/10/23-19:16:15.813 2214 Delete type=2 #256
-2017/10/23-19:16:15.827 2214 Delete type=2 #262
+2017/11/14-11:06:23.005 738 Reusing MANIFEST /home/holzel/.config/google-chrome/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/MANIFEST-000001
+2017/11/14-11:06:23.005 738 Recovering log #1422
+2017/11/14-11:06:23.023 738 Reusing old log /home/holzel/.config/google-chrome/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/001422.log 
+2017/11/14-11:07:24.915 1057 Level-0 table #1426: started
+2017/11/14-11:07:25.110 1057 Level-0 table #1426: 2872273 bytes OK
+2017/11/14-11:07:25.151 1057 Delete type=0 #1422
+2017/11/14-11:07:25.154 1057 Compacting 4@0 + 2@1 files
+2017/11/14-11:07:25.393 1057 Generated table #1427@0: 1 keys, 2872212 bytes
+2017/11/14-11:07:25.427 1057 Generated table #1428@0: 3 keys, 369 bytes
+2017/11/14-11:07:25.427 1057 Compacted 4@0 + 2@1 files => 2872581 bytes
+2017/11/14-11:07:25.469 1057 compacted to: files[ 0 4 5 0 0 0 0 ]
+2017/11/14-11:07:25.469 1057 Delete type=2 #1415
+2017/11/14-11:07:25.486 1057 Delete type=2 #1418
+2017/11/14-11:07:25.487 1057 Delete type=2 #1423
+2017/11/14-11:07:25.487 1057 Delete type=2 #1416
+2017/11/14-11:07:25.487 1057 Delete type=2 #1426
+2017/11/14-11:07:25.488 1057 Delete type=2 #1421

@@ -1,21 +1,12 @@
-2017/10/07-16:07:56.937 725 Reusing MANIFEST /home/holzel/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2017/10/07-16:07:56.938 725 Recovering log #83
-2017/10/07-16:07:56.953 725 Reusing old log /home/holzel/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000083.log 
-2017/10/07-16:08:00.269 1036 Level-0 table #87: started
-2017/10/07-16:08:00.432 1036 Level-0 table #87: 1243698 bytes OK
-2017/10/07-16:08:00.540 1036 Delete type=0 #83
-2017/10/07-16:08:01.505 1036 Level-0 table #89: started
-2017/10/07-16:08:01.677 1036 Level-0 table #89: 1261632 bytes OK
-2017/10/07-16:08:01.761 1036 Delete type=0 #86
-2017/10/07-16:08:01.764 1036 Compacting 4@0 + 1@1 files
-2017/10/07-16:08:01.953 1036 Generated table #90@0: 13 keys, 1261571 bytes
-2017/10/07-16:08:01.953 1036 Compacted 4@0 + 1@1 files => 1261571 bytes
-2017/10/07-16:08:01.995 1036 compacted to: files[ 0 1 1 0 0 0 0 ]
-2017/10/07-16:08:01.995 1036 Delete type=2 #87
-2017/10/07-16:08:01.995 1036 Delete type=2 #82
-2017/10/07-16:08:02.009 1036 Delete type=2 #84
-2017/10/07-16:08:02.020 1036 Delete type=2 #80
-2017/10/07-16:08:02.031 1036 Delete type=2 #89
-2017/10/07-16:08:02.854 1036 Level-0 table #92: started
-2017/10/07-16:08:02.955 1036 Level-0 table #92: 1261631 bytes OK
-2017/10/07-16:08:02.998 1036 Delete type=0 #88
+2017/11/13-15:08:57.068 6380 Reusing MANIFEST /home/holzel/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2017/11/13-15:08:57.069 6380 Recovering log #398
+2017/11/13-15:08:57.074 6380 Reusing old log /home/holzel/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000398.log 
+2017/11/13-15:09:00.098 2123 Level-0 table #403: started
+2017/11/13-15:09:00.513 2123 Level-0 table #403: 1244532 bytes OK
+2017/11/13-15:09:00.602 2123 Delete type=0 #398
+2017/11/13-15:09:01.772 2123 Level-0 table #405: started
+2017/11/13-15:09:01.951 2123 Level-0 table #405: 1263713 bytes OK
+2017/11/13-15:09:02.059 2123 Delete type=0 #402
+2017/11/13-15:09:03.126 2123 Level-0 table #407: started
+2017/11/13-15:09:03.268 2123 Level-0 table #407: 1263717 bytes OK
+2017/11/13-15:09:03.445 2123 Delete type=0 #404

@@ -12,8 +12,10 @@ pkill xcompmgr
 xcompmgr &
 feh --bg-fill /home/holzel/Pictures/cyber2.jpg
 xsettingsd &
-pkill polybar
-$HOME/.config/polybar/launch.sh top &
+pkill tint2
+tint2 &
+#pkill polybar
+#$HOME/.config/polybar/launch.sh top &
 mpd &
 
 ## use the super key as the main modifier
@@ -34,6 +36,10 @@ hc keybind $Mod-Shift-Return spawn urxvt
 hc keybind $Mod-l spawn i3lock-fancy
 hc keybind $Mod-Shift-w spawn google-chrome-stable
 hc keybind $Mod-Shift-f spawn thunar
+
+## Keybind for Monitor scripts
+hc keybind $Mod-Shift-o /home/holzel/Documents/Prog/dualscreen.sh v &
+hc keybind $Mod-Shift-p bash /home/holzel/Documents/Prog/dualscreen.sh l
 
 ## volume control
 hc keybind XF86AudioRaiseVolume spawn amixer -D pulse sset Master '5%+'

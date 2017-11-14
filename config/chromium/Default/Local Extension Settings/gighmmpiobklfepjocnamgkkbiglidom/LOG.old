@@ -1,5 +1,73 @@
-2017/10/22-21:48:57.243 2673 Reusing MANIFEST /home/holzel/.config/chromium/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
-2017/10/22-21:48:57.244 2673 Recovering log #591
-2017/10/22-21:48:57.269 2673 Level-0 table #593: started
-2017/10/22-21:48:57.390 2673 Level-0 table #593: 2064901 bytes OK
-2017/10/22-21:48:57.432 2673 Delete type=0 #591
+2017/10/28-11:31:36.391 2465 Reusing MANIFEST /home/holzel/.config/chromium/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2017/10/28-11:31:36.490 2465 Recovering log #618
+2017/10/28-11:31:36.566 2465 Reusing old log /home/holzel/.config/chromium/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/000618.log 
+2017/10/28-11:32:41.527 2853 Level-0 table #622: started
+2017/10/28-11:32:41.661 2853 Level-0 table #622: 2064927 bytes OK
+2017/10/28-11:32:41.703 2853 Delete type=0 #618
+2017/10/28-11:32:41.705 2853 Compacting 4@0 + 3@1 files
+2017/10/28-11:32:42.000 2853 Generated table #623@0: 3 keys, 3096786 bytes
+2017/10/28-11:32:42.221 2853 Generated table #624@0: 3 keys, 3096619 bytes
+2017/10/28-11:32:42.296 2853 Generated table #625@0: 5 keys, 429 bytes
+2017/10/28-11:32:42.296 2853 Compacted 4@0 + 3@1 files => 6193834 bytes
+2017/10/28-11:32:42.346 2853 compacted to: files[ 0 3 1 0 0 0 0 ]
+2017/10/28-11:32:42.347 2853 Delete type=2 #622
+2017/10/28-11:32:42.347 2853 Delete type=2 #611
+2017/10/28-11:32:42.347 2853 Delete type=2 #613
+2017/10/28-11:32:42.347 2853 Delete type=2 #619
+2017/10/28-11:32:42.364 2853 Delete type=2 #615
+2017/10/28-11:32:42.364 2853 Delete type=2 #617
+2017/10/28-11:32:42.365 2853 Delete type=2 #612
+2017/10/28-11:32:43.384 2853 Level-0 table #627: started
+2017/10/28-11:32:43.489 2853 Level-0 table #627: 2064622 bytes OK
+2017/10/28-11:32:43.532 2853 Delete type=0 #621
+2017/10/28-11:32:45.601 2853 Level-0 table #629: started
+2017/10/28-11:32:45.723 2853 Level-0 table #629: 2064701 bytes OK
+2017/10/28-11:32:45.765 2853 Delete type=0 #626
+2017/10/28-11:32:46.852 2853 Level-0 table #631: started
+2017/10/28-11:32:46.958 2853 Level-0 table #631: 2064560 bytes OK
+2017/10/28-11:32:47.035 2853 Delete type=0 #628
+2017/10/28-11:32:48.306 2853 Level-0 table #633: started
+2017/10/28-11:32:48.428 2853 Level-0 table #633: 2064620 bytes OK
+2017/10/28-11:32:48.470 2853 Delete type=0 #630
+2017/10/28-11:32:48.472 2853 Compacting 4@0 + 2@1 files
+2017/10/28-11:32:48.670 2853 Generated table #634@0: 3 keys, 3096768 bytes
+2017/10/28-11:32:48.854 2853 Generated table #635@0: 3 keys, 3096968 bytes
+2017/10/28-11:32:48.854 2853 Compacted 4@0 + 2@1 files => 6193736 bytes
+2017/10/28-11:32:48.912 2853 compacted to: files[ 0 3 1 0 0 0 0 ]
+2017/10/28-11:32:48.913 2853 Delete type=2 #624
+2017/10/28-11:32:48.914 2853 Delete type=2 #633
+2017/10/28-11:32:48.914 2853 Delete type=2 #629
+2017/10/28-11:32:48.914 2853 Delete type=2 #631
+2017/10/28-11:32:48.915 2853 Delete type=2 #627
+2017/10/28-11:32:48.916 2853 Delete type=2 #623
+2017/10/28-11:32:56.380 2853 Level-0 table #637: started
+2017/10/28-11:32:56.615 2853 Level-0 table #637: 2064913 bytes OK
+2017/10/28-11:32:56.652 2853 Delete type=0 #632
+2017/10/28-13:26:38.599 2853 Level-0 table #639: started
+2017/10/28-13:26:38.834 2853 Level-0 table #639: 2065319 bytes OK
+2017/10/28-13:26:38.893 2853 Delete type=0 #636
+2017/10/28-13:39:23.733 2853 Level-0 table #641: started
+2017/10/28-13:39:23.933 2853 Level-0 table #641: 2065586 bytes OK
+2017/10/28-13:39:24.327 2853 Delete type=0 #638
+2017/10/28-15:32:36.317 2853 Level-0 table #643: started
+2017/10/28-15:32:36.537 2853 Level-0 table #643: 2065337 bytes OK
+2017/10/28-15:32:36.759 2853 Delete type=0 #640
+2017/10/28-15:32:36.789 2853 Compacting 4@0 + 3@1 files
+2017/10/28-15:32:37.095 2853 Generated table #644@0: 3 keys, 3096980 bytes
+2017/10/28-15:32:37.371 2853 Generated table #645@0: 3 keys, 3096961 bytes
+2017/10/28-15:32:37.531 2853 Generated table #646@0: 5 keys, 479 bytes
+2017/10/28-15:32:37.531 2853 Compacted 4@0 + 3@1 files => 6194420 bytes
+2017/10/28-15:32:37.573 2853 compacted to: files[ 0 3 1 0 0 0 0 ]
+2017/10/28-15:32:37.573 2853 Delete type=2 #625
+2017/10/28-15:32:37.573 2853 Delete type=2 #637
+2017/10/28-15:32:37.595 2853 Delete type=2 #641
+2017/10/28-15:32:37.595 2853 Delete type=2 #634
+2017/10/28-15:32:37.596 2853 Delete type=2 #639
+2017/10/28-15:32:37.596 2853 Delete type=2 #635
+2017/10/28-15:32:37.597 2853 Delete type=2 #643
+2017/10/28-16:04:07.639 2853 Level-0 table #648: started
+2017/10/28-16:04:07.917 2853 Level-0 table #648: 2065168 bytes OK
+2017/10/28-16:04:08.126 2853 Delete type=0 #642
+2017/10/28-17:32:36.331 2853 Level-0 table #650: started
+2017/10/28-17:32:36.513 2853 Level-0 table #650: 2065349 bytes OK
+2017/10/28-17:32:36.580 2853 Delete type=0 #647

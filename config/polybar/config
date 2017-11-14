@@ -9,19 +9,19 @@
 
 [colors]
 ;background = ${xrdb:color0:#222}
-background = #000
+background = #000000
 background-alt = #444
 ;foreground = ${xrdb:color7:#222}
 foreground = #dfdfdf
 foreground-alt = #555
-primary = #e60039
+primary = #ffffff
 secondary = #e60053
 alert = #bd2c40
 
 [bar/example]
-;monitor = ${env:MONITOR:HDMI-1}
+monitor = ${env:MONITOR}
 width = 100%
-height = 24
+height = 29
 ;offset-x = 1%
 ;offset-y = 1%
 radius = 6.0
@@ -31,13 +31,13 @@ background = ${colors.background}
 foreground = ${colors.foreground}
 
 line-size = 3
-line-color = #f00
+line-color = #ffffff
 
-border-size = 0
+border-size = 4
 border-color = #00000000
 
 padding-left = 0
-padding-right = 2
+padding-right = 0
 
 module-margin-left = 1
 module-margin-right = 2
@@ -46,9 +46,9 @@ font-0 = fixed:pixelsize=10;1
 font-1 = unifont:fontformat=truetype:size=8:antialias=false;0
 font-2 = siji:pixelsize=10;1
 
-modules-left = i3
-modules-center =
-modules-right = filesystem xbacklight volume xkeyboard memory cpu wlan eth battery temperature date powermenu
+modules-left = bspwm i3 hlws
+modules-center = date mpd
+modules-right = filesystem xbacklight volume xkeyboard memory cpu wlan eth battery temperature powermenu
 
 tray-position = right
 tray-padding = 2
@@ -65,6 +65,29 @@ tray-padding = 2
 
 ;scroll-up = i3wm-wsnext
 ;scroll-down = i3wm-wsprev
+
+
+
+
+[module/hlws]
+type = custom/script
+exec = python3 /home/holzel/Documents/Prog/hlws.py
+scroll-down = exec herbstclient use_index +1
+scroll-up = exec herbstclient use_index -1
+interval = 0.01
+format-background = #525252
+format-underline = #2B2B2B
+
+
+
+
+
+
+
+
+
+
+
 
 [module/xwindow]
 type = internal/xwindow
@@ -189,20 +212,20 @@ type = internal/cpu
 interval = 2
 format-prefix = " "
 format-prefix-foreground = ${colors.foreground-alt}
-format-underline = #f90057
-label = %percentage%%
+format-underline = #f90000
+label = CPU: %percentage%%
 
 [module/memory]
 type = internal/memory
 interval = 2
 format-prefix = " "
 format-prefix-foreground = ${colors.foreground-alt}
-format-underline = #c8f442
-label = %percentage_used%%
+format-underline = #4bffdc
+label = RAM: %percentage_used%%
 
 [module/wlan]
 type = internal/network
-interface = wlp3s0
+interface = net1
 interval = 3.0
 
 format-connected = <ramp-signal> <label-connected>
@@ -224,10 +247,10 @@ ramp-signal-foreground = ${colors.foreground-alt}
 
 [module/eth]
 type = internal/network
-interface = enp0s25
+interface = enp2s0
 interval = 3.0
 
-format-connected-underline = #000000
+format-connected-underline = #55aa55
 format-connected-prefix = " "
 format-connected-prefix-foreground = ${colors.foreground-alt}
 label-connected = %local_ip%
@@ -250,7 +273,7 @@ time-alt = %H:%M:%S
 
 format-prefix = 
 format-prefix-foreground = ${colors.foreground-alt}
-format-underline = #000000
+format-underline = #ffffff
 
 label = %date% %time%
 
@@ -274,7 +297,7 @@ bar-volume-foreground-4 = #55aa55
 bar-volume-foreground-5 = #f5a70a
 bar-volume-foreground-6 = #ff5555
 bar-volume-gradient = false
-bar-volume-indicator = |
+bar-volume-indicator = ~
 bar-volume-indicator-font = 2
 bar-volume-fill = ─
 bar-volume-fill-font = 2
@@ -285,11 +308,11 @@ bar-volume-empty-foreground = ${colors.foreground-alt}
 [module/battery]
 type = internal/battery
 battery = BAT0
-adapter = AC
+adapter = ADP1
 full-at = 98
 
 format-charging = <animation-charging> <label-charging>
-format-charging-underline = #000000
+format-charging-underline = #ffb52a
 
 format-discharging = <ramp-capacity> <label-discharging>
 format-discharging-underline = ${self.format-charging-underline}
@@ -315,7 +338,7 @@ thermal-zone = 0
 warn-temperature = 60
 
 format = <ramp> <label>
-format-underline = #000000
+format-underline = #f50a4d
 format-warn = <ramp> <label-warn>
 format-warn-underline = ${self.format-underline}
 
@@ -330,8 +353,6 @@ ramp-foreground = ${colors.foreground-alt}
 
 [module/powermenu]
 type = custom/menu
-
-expand-right = true
 
 format-spacing = 1
 

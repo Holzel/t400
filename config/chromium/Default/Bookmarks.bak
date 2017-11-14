@@ -105,10 +105,10 @@
             "date_added": "13102904437907942",
             "id": "51",
             "meta_info": {
-               "last_visited_desktop": "13152891512579454"
+               "last_visited_desktop": "13153369177480178"
             },
             "name": "",
-            "sync_transaction_version": "95",
+            "sync_transaction_version": "97",
             "type": "url",
             "url": "https://www.reddit.com/r/German/new/"
          }, {
@@ -148,13 +148,13 @@
             "date_added": "13084072425081760",
             "id": "55",
             "meta_info": {
-               "last_visited_desktop": "13152210829041598",
+               "last_visited_desktop": "13153369387310190",
                "stars.flags": "5",
                "stars.id": "ssc_1cf26d776e59419b",
                "stars.version": "sync.server.Chrome44"
             },
             "name": "",
-            "sync_transaction_version": "91",
+            "sync_transaction_version": "98",
             "type": "url",
             "url": "https://github.com/"
          }, {
@@ -736,7 +736,7 @@
          "name": "Other bookmarks",
          "type": "folder"
       },
-      "sync_transaction_version": "95",
+      "sync_transaction_version": "98",
       "synced": {
          "children": [  ],
          "date_added": "13148861485983513",

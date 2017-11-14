@@ -31,25 +31,43 @@ floating_modifier $mod
 
 
 
+
+#Take a screenshot
+bindsym $mod+Shift+s scrot -m '%d-%m-%Y' -e 'mv $f /home/holzel/Pictures/'
+
+
 #PROGRAM SHORTCUTS
 # start a terminal
 bindsym $mod+Return exec termite
 bindsym $mod+t exec --no-startup-id thunar
 bindsym $mod+q exec --no-startup-id qutebrowser
 #bindsym $mod+c exec --no-startup-id google-chrome-stable
-bindsym $mod+c exec --no-startup-id chromium
+bindsym $mod+c exec --no-startup-id google-chrome-stable
 bindsym $mod+Shift+d exec --no-startup-id discord-canary
 
 #Screen Shortcuts
 bindsym $mod+Shift+o exec --no-startup-id /home/holzel/Documents/Prog/dualscreen.sh v
 bindsym $mod+Shift+p exec --no-startup-id /home/holzel/Documents/Prog/dualscreen.sh l
+bindsym $mod+Shift+z exec --no-startup-id /home/holzel/Documents/Prog/dualscreen.sh d
 
-
+#Setting Monitor Workspacees
+workspace 1 output VGA1
+workspace 2 output VGA1
+workspace 3 output VGA1
+workspace 4 output VGA1
+workspace 5 output VGA1
+workspace 6 output LVDS1
+workspace 7 output LVDS1
+workspace 8 output LVDS1
+workspace 9 output LVDS1
 
 #bindsym $mod+c exec
 
 # kill focused window
 bindsym $mod+Shift+q kill
+
+# Toggle between workspaces
+bindsym $mod+Tab workspace back_and_forth
 
 #Hide borders
 hide_edge_borders both

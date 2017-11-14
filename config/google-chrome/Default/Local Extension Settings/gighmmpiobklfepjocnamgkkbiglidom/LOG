@@ -1,6 +1,17 @@
-2017/10/23-19:15:13.352 1783 Reusing MANIFEST /home/holzel/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
-2017/10/23-19:15:13.352 1783 Recovering log #220
-2017/10/23-19:15:13.389 1783 Reusing old log /home/holzel/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/000220.log 
-2017/10/23-19:16:18.022 2214 Level-0 table #224: started
-2017/10/23-19:16:18.167 2214 Level-0 table #224: 2064802 bytes OK
-2017/10/23-19:16:18.209 2214 Delete type=0 #220
+2017/11/14-11:06:23.845 738 Reusing MANIFEST /home/holzel/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2017/11/14-11:06:23.845 738 Recovering log #933
+2017/11/14-11:06:24.457 738 Reusing old log /home/holzel/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/000933.log 
+2017/11/14-11:07:23.822 1057 Level-0 table #937: started
+2017/11/14-11:07:23.981 1057 Level-0 table #937: 2070289 bytes OK
+2017/11/14-11:07:24.024 1057 Delete type=0 #933
+2017/11/14-11:07:24.025 1057 Compacting 4@0 + 2@1 files
+2017/11/14-11:07:24.315 1057 Generated table #938@0: 3 keys, 3100541 bytes
+2017/11/14-11:07:24.374 1057 Generated table #939@0: 6 keys, 436 bytes
+2017/11/14-11:07:24.374 1057 Compacted 4@0 + 2@1 files => 3100977 bytes
+2017/11/14-11:07:24.416 1057 compacted to: files[ 0 3 1 0 0 0 0 ]
+2017/11/14-11:07:24.416 1057 Delete type=2 #937
+2017/11/14-11:07:24.417 1057 Delete type=2 #929
+2017/11/14-11:07:24.417 1057 Delete type=2 #931
+2017/11/14-11:07:24.417 1057 Delete type=2 #926
+2017/11/14-11:07:24.438 1057 Delete type=2 #934
+2017/11/14-11:07:24.439 1057 Delete type=2 #927

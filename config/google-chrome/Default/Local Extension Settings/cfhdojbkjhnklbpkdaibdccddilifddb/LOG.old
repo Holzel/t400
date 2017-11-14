@@ -1,8 +1,9 @@
-2017/10/23-18:52:58.886 707 Reusing MANIFEST /home/holzel/.config/google-chrome/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/MANIFEST-000001
-2017/10/23-18:52:58.886 707 Recovering log #254
-2017/10/23-18:52:59.965 707 Level-0 table #259: started
-2017/10/23-18:53:00.223 707 Level-0 table #259: 2871169 bytes OK
-2017/10/23-18:53:00.468 707 Delete type=0 #254
-2017/10/23-18:54:00.441 1149 Level-0 table #262: started
-2017/10/23-18:54:00.643 1149 Level-0 table #262: 2871338 bytes OK
-2017/10/23-18:54:00.702 1149 Delete type=0 #260
+2017/11/14-08:50:19.072 887 Reusing MANIFEST /home/holzel/.config/google-chrome/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/MANIFEST-000001
+2017/11/14-08:50:19.073 887 Recovering log #1417
+2017/11/14-08:50:19.086 887 Reusing old log /home/holzel/.config/google-chrome/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/001417.log 
+2017/11/14-08:51:20.087 1469 Level-0 table #1421: started
+2017/11/14-08:51:20.292 1469 Level-0 table #1421: 2874866 bytes OK
+2017/11/14-08:51:20.334 1469 Delete type=0 #1417
+2017/11/14-09:05:49.062 1469 Level-0 table #1423: started
+2017/11/14-09:05:49.279 1469 Level-0 table #1423: 2872462 bytes OK
+2017/11/14-09:05:49.506 1469 Delete type=0 #1420
